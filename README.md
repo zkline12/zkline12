@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zkline12
-- 👀 I’m interested in Python, Java, and web programming, computer-wise. Otherwise, I am interested in history!
+- 👀 I’m interested in Python, Java, and web programming, computer-wise. Otherwise, I am interested in history and genealogy!
 - 🌱 I’m currently learning web programming through Sublime, using HTML and CSS.
 - 💞️ I’m looking to collaborate on [NOTHING YET]
 - 📫 How to reach me: [I do not know yet]
